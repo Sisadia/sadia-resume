@@ -1,2 +1,4 @@
 title: Sadia Islam Resume
 theme: minima
+description: ""  # This hides the description in the footer
+footer_links: false
