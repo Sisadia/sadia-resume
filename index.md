@@ -107,3 +107,6 @@ Software Testing, Software Development, Automation Testing, Automation Framework
   <textarea name="message" placeholder="Your Message" rows="4" required></textarea><br><br>
   <button type="submit">Send</button>
 </form>
+
+
+📄 [Download PDF Version](resume.pdf)
